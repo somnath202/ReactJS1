@@ -1,0 +1,19 @@
+Header{
+    background-color: rgb(137, 137, 251);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 10px;
+}
+
+.btn{
+    background-color: #dad8d8;
+    width: 80px;
+    padding: 5px 10px;
+    margin: 5px;
+    color: #0e0e0e;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+}
